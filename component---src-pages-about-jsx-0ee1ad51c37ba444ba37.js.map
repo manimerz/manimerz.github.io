@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/about.jsx"],"names":["About"],"mappings":"oHAAA,kFAGe,SAASA,IACtB,OAAO","file":"component---src-pages-about-jsx-0ee1ad51c37ba444ba37.js","sourcesContent":["import React from \"react\"\nimport styles from \"../styles/about.module.css\"\n\nexport default function About() {\n  return <div></div>\n}\n"],"sourceRoot":""}
